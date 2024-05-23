@@ -7,3 +7,55 @@ body{
     font-size: 24px;
     padding-top: 25px;
 }
+
+p {
+   font-size: 24px; 
+}
+
+.bsSektoru1{
+    width: 200px;
+    height: 250px;
+    background-color: cornsilk;
+    padding-left: 40px;
+    margin-left: 40px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0%;
+}
+
+.sSektoru1{
+    width: 200px;
+    height: 250px;
+    background-color: cornsilk;
+    padding-left: 40px;
+    margin-left: 40px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0%;
+}
+
+.etSektoru1{
+    width: 200px;
+    height: 250px;
+    background-color: cornsilk;
+    padding-left: 40px;
+    margin-left: 40px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0%;
+}
+
+.bSektoru1{
+    width: 200px;
+    height: 250px;
+    background-color: cornsilk;
+    padding-left: 40px;
+    margin-left: 40px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0%;
+}
